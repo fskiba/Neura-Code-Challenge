@@ -2,7 +2,7 @@
 
 # Installation
 ## Prerequisites
-Please install OpenCV [OpenCV](https://opencv.org)
+Please install [OpenCV](https://opencv.org)
 
 ## Install the package
 Either use the binary edge_detection_bin under edge_detection/devel/lib/edge_detection/ in your ROS environment or build it in a catkin workspace from the source files using the provided CMakeLists.txt and package.xml files.
