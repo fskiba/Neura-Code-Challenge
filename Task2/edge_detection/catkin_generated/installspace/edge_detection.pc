@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: edge_detection
-Description: Description of edge_detection
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: geometry_msgs std_msgs sensor_msgs message_runtime

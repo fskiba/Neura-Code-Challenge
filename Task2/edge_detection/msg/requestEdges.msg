@@ -1,4 +1,0 @@
-sensor_msgs/Image sourceImage
-uint32 cannyThrLow
-uint32 cannyThrHigh
-uint32 apertureSize
